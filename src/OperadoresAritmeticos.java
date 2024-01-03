@@ -7,8 +7,8 @@ public class OperadoresAritmeticos {
         division
         y modulo.
          */
-        int num1 = 5 ;
-        int num2 = 4 ;
+        int num1 = 5;
+        int num2 = 4;
         //imprimir en consola.
         System.out.println("La suma es: " + (num1 + num2));
         System.out.println("La resta es: " + (num1 - num2));
